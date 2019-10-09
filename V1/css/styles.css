@@ -1,0 +1,60 @@
+html {
+    font-family: Comfortaa; /*Choix de la police de la page*/
+}
+
+body {
+    margin: 0px; /*Marge à 0px*/
+    padding: 0px; /*Écart à 0px*/
+    background-color: white; /*Arrière-plan de couleur blanc*/
+}
+
+header{
+    padding: 10px; /*Écart à 10px*/
+    border-bottom: 5px solid #dd2e44; /*Bordure inférieur d'épaisseur 5px, de type solid et de couleur #dd2e44 (Rouge)*/
+    background-color: #f9f9f9; /*Arrière-plan de couleur #f9f9f9 (Blanc grisé)*/
+    text-align: center; /*Alignement au centre de la page*/
+}
+
+header nav ul{
+    padding: 0px; /*Écart à 0px*/
+    margin: 0px; /*Marge à 0px*/
+    list-style-type: none; /*Suppression de la puce ronde*/
+    background-color: #666666; /*Arrière-plan de couleur #666666 (Gris)*/
+    border-radius: 15px; /*Bord du menu arrondie*/
+}
+
+header nav li{
+    display: inline-block; /*Défini le type d'affichage*/
+    width: 150px; /*Largeur de 150px*/
+    height: 40px; /*Hauteur de 40px*/
+    margin: 0px; /*Marge de 0px*/
+    padding: 0px; /*Écart de 0px*/
+    border-bottom: 5px solid #CCCCCC; /*Bordure inférieur de 5px, de type solid et de couleur #CCCCCC (Gris chiné)*/
+    text-align: center; /*Alignement au centre de la page*/
+    line-height: 40px; /*Hauteur de ligne à 40px*/
+}
+
+header nav li:hover{ /*Modification du menu au passage de la souris*/
+        border-bottom: 5px solid #dd2e44; /*Bordure inférieur de 5x, de type solid et de couleur #dd2e44 (Rouge)*/
+}
+
+header nav li a{
+    display: block; /*Défini le type d'affichage*/
+    text-decoration: none; /*Défini les décorations du texte*/
+    color: #FFF; /*Défini la couleur du texte sur Blanc*/
+}
+
+header nav li a img{
+    vertical-align : middle; /*Aligne le texte verticalement avec l'icone*/
+}
+
+footer {
+    position: fixed; /*Fixe la position du pied de page*/
+    left: 0; /*Détermine la position à gauche à 0px*/
+    bottom: 0; /*Détermine la position en bas à 0px*/
+    width: 100%; /*Largeur de 100%*/
+    padding: 10px; /*Écart à 10px*/
+    border-top: 5px solid #dd2e44; /*Bordure inférieur d'épaisseur 5px, de type solid et de couleur #dd2e44 (Rouge)*/
+    background-color: #f9f9f9; /*Arrière-plan de couleur #f9f9f9 (Blanc grisé)*/
+    text-align: center; /*Alignement au centre de la page*/
+}

@@ -1,0 +1,7 @@
+C:\Users\sandrinehovhannessia\source\repos\TP_00_console\TP_00_conosle_01\bin\Debug\TP_00_conosle_01.exe.config
+C:\Users\sandrinehovhannessia\source\repos\TP_00_console\TP_00_conosle_01\bin\Debug\TP_00_conosle_01.exe
+C:\Users\sandrinehovhannessia\source\repos\TP_00_console\TP_00_conosle_01\bin\Debug\TP_00_conosle_01.pdb
+C:\Users\sandrinehovhannessia\source\repos\TP_00_console\TP_00_conosle_01\obj\Debug\TP_00_console_01.csprojAssemblyReference.cache
+C:\Users\sandrinehovhannessia\source\repos\TP_00_console\TP_00_conosle_01\obj\Debug\TP_00_console_01.csproj.CoreCompileInputs.cache
+C:\Users\sandrinehovhannessia\source\repos\TP_00_console\TP_00_conosle_01\obj\Debug\TP_00_conosle_01.exe
+C:\Users\sandrinehovhannessia\source\repos\TP_00_console\TP_00_conosle_01\obj\Debug\TP_00_conosle_01.pdb

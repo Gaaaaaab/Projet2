@@ -1,0 +1,40 @@
+﻿.corps{
+    padding: 50px;
+}
+
+.contact{
+    float: left;
+    height: 200px;
+    width: 40%;
+}
+
+.logo {
+    float: right;
+    height: 150px;
+    width: 40%;
+    padding-bottom : 50px;
+}
+
+.table {
+    border-collapse: collapse; /* Détermine la liaison des bordures du tableau */
+    width: 100%; /* Largeur de 100% */
+    border: 1px solid #ddd; /* Bordure d'épaisseur 1px, de type solid et de couleur #ddd (Gris clair) */
+    font-size: 18px; /* Taille de police à 18px */
+}
+
+.table th, .table td {
+    text-align: left; /* Alignement du texte à gauche */
+    padding: 12px; /* Écart de 12px */
+}
+
+.table tr {
+    border-bottom: 1px solid #ddd; /* Bordure d'épaisseur 1px, de type solid et de couleur #ddd (Gris clair) */
+}
+
+.table tr.entete, .table tr:hover {
+    background-color: #f1f1f1; /* Arrière-plan de couleur #f1f1f1 (Beige) */
+}
+
+iframe{
+    padding-bottom: 50px;
+}

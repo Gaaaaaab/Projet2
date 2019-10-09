@@ -1,0 +1,14 @@
+C:\Users\sandrinehovhannessia\source\repos\TP_00_console\TP_00_console\bin\Debug\TP_00_console.exe.config
+C:\Users\sandrinehovhannessia\source\repos\TP_00_console\TP_00_console\bin\Debug\TP_00_console.exe
+C:\Users\sandrinehovhannessia\source\repos\TP_00_console\TP_00_console\bin\Debug\TP_00_console.pdb
+C:\Users\sandrinehovhannessia\source\repos\TP_00_console\TP_00_console\obj\Debug\TP_00_console.csprojAssemblyReference.cache
+C:\Users\sandrinehovhannessia\source\repos\TP_00_console\TP_00_console\obj\Debug\TP_00_console.csproj.CoreCompileInputs.cache
+C:\Users\sandrinehovhannessia\source\repos\TP_00_console\TP_00_console\obj\Debug\TP_00_console.exe
+C:\Users\sandrinehovhannessia\source\repos\TP_00_console\TP_00_console\obj\Debug\TP_00_console.pdb
+C:\Users\g.coiffier\Desktop\TP_00_console\TP_00_console\bin\Debug\TP_00_console.exe.config
+C:\Users\g.coiffier\Desktop\TP_00_console\TP_00_console\bin\Debug\TP_00_console.exe
+C:\Users\g.coiffier\Desktop\TP_00_console\TP_00_console\bin\Debug\TP_00_console.pdb
+C:\Users\g.coiffier\Desktop\TP_00_console\TP_00_console\obj\Debug\TP_00_console.csprojAssemblyReference.cache
+C:\Users\g.coiffier\Desktop\TP_00_console\TP_00_console\obj\Debug\TP_00_console.csproj.CoreCompileInputs.cache
+C:\Users\g.coiffier\Desktop\TP_00_console\TP_00_console\obj\Debug\TP_00_console.exe
+C:\Users\g.coiffier\Desktop\TP_00_console\TP_00_console\obj\Debug\TP_00_console.pdb

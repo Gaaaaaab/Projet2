@@ -1,0 +1,28 @@
+﻿#Recherche {
+    width: 95%; /* Largeur de 95% */
+    font-size: 16px; /* Taille de police de 16px */
+    padding: 10px 20px 10px 20px; /* Écart de 10px en haut, 20px à droite, 10px en bas et 20px à gauche */
+    margin: 12px; /* Marge de 12px */
+    border: 1px solid #666666; /* Bordure d'épaisseur 1px, de type solid et de couleur #666666 (Gris) */
+}
+
+#table {
+    border-collapse: collapse; /* Détermine la liaison des bordures du tableau */
+    width: 100%; /* Largeur de 100% */
+    border: 1px solid #ddd; /* Bordure d'épaisseur 1px, de type solid et de couleur #ddd (Gris clair) */
+    font-size: 18px; /* Taille de police à 18px */
+    margin-bottom : 100px; /* Marge inférieure à 100px */
+}
+
+#table th, #table td {
+    text-align: left; /* Alignement du texte à gauche */
+    padding: 12px; /* Écart de 12px */
+}
+
+#table tr {
+    border-bottom: 1px solid #ddd; /* Bordure d'épaisseur 1px, de type solid et de couleur #ddd (Gris clair) */
+}
+
+#table tr.entete, #table tr:hover {
+    background-color: #f1f1f1; /* Arrière-plan de couleur #f1f1f1 (Beige) */
+}

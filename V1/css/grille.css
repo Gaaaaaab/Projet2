@@ -1,0 +1,25 @@
+﻿* {
+    box-sizing: border-box; /* Définit le bord à bord */
+}
+
+.logo {
+    float: left; /* Alignement à gauche */
+    width: 25%; /* Largeur de 25% */
+    padding: 25px; /* Écart de 25px */
+    border: 1px solid #666666; /* Bordure d'épaisseur 1px, de type solid et de couleur #666666 (Gris) */
+    background-color: #FFFFFF; /* Arrière-plan de couleur #FFFFFF (Blanc) */
+    transition: transform .5s; /* Animation sur 5sec */
+}
+
+.logo:hover {
+    -ms-transform: scale(1.3); /* Adaptation IE */
+    transform: scale(1.3); /* Effet zoom à l'échelle 1.3 */
+}
+
+.logo img {
+    cursor: pointer; /* Permet de transformer la souris en petit main */
+}
+
+.grille {
+    margin-bottom: 55%; /* Marge inférieure à 55% */
+}
